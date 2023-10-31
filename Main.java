@@ -8,8 +8,9 @@ public class Main {
         // Implementasi kalkulator sederhana menggunakan custom live template
         int a = 5;
         int b = 3;
-        int result = a + b;
+        int result = a * b;
         System.out.println("Hasil: " + result);
+
     }
 }
 
